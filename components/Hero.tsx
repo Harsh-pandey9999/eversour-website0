@@ -57,12 +57,12 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! We are Eversour, a digital agency based in India. 
+          <b> Eversour </b> is a leading digital development company offering a comprehensive suite of services aimed at helping businesses establish and enhance their online presence based in Muzaffarnagar, India. In today's digital landscape, a robust online presence is essential for business success. we empower businesses to thrive online by providing comprehensive digital solutions tailored to your unique needs.
           </p>
 
           <a href="#about">
             <MagicButton
-              title="Show my work"
+              title="Explore now !!"
               icon={<FaLocationArrow />}
               position="right"
             />
