@@ -6,9 +6,15 @@ export const navItems = [
 ];
 
 export const gridItems = [
-  {
+   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: [
+      "The Digital Development Service Provider Company in India.",
+      "- High prices for digital services.",
+      "- Incomplete and unsatisfactory work from freelancers and agencies.",
+      "- Low-quality deliverables.",
+      "- Unreliable and untrustworthy service providers.",
+    ],
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
